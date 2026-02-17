@@ -9,4 +9,4 @@ Asimismo, la plataforma almacenará información relacionada con la lista de doc
 De esta manera, el sistema busca centralizar la información escolar, mejorar la organización académica y garantizar un acceso eficiente y confiable a los datos relevantes para estudiantes y administración.
 
 Motivacion. 
-"Buscamos culminación, más no perfección"
+"Buscamos culminación, mas no perfección"
